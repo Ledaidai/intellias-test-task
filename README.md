@@ -1,9 +1,9 @@
-# Мое резюме - тестовое задание для компании Intellias
-Особенности реализации:
-1. Принцип mobile first.
-2. Современный дизайн.
-3. Подключение и использование внешних шрифтов.
-4. Подключение и использование иконок.
-5. По JS - реализация модального окна с формой и минимальной валидацией
+# My CV - test task for the company Intellias
+Implementation features:
+1. Mobile first
+2. Modern design
+3. External fonts usage.
+4. External icons usage.
+5. On JS side - implementation of a modal window with a form and minimal validation
 
-Ссылка на GitHubPages: https://ledaidai.github.io/intellias-test-task
+Link to GitHubPages: https://ledaidai.github.io/intellias-test-task
